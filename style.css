@@ -469,22 +469,18 @@ ul {
     box-shadow: 0 12px 40px rgba(108, 99, 255, 0.18);
     transform: scale(1.03);
 }
-
 .pricing-card.featured:hover {
     transform: scale(1.04);
 }
-
 .pricing-card.featured {
     color: #fff;
 }
-
 .plan-price {
     font-size: 2.8rem;
     font-weight: 700;
     margin: 8px 0 20px;
     color: #1a1a2e;
 }
-
 .price-period {
     font-size: 1rem;
     font-weight: 400;
@@ -492,21 +488,17 @@ ul {
     display: block;
     margin-top: 2px;
 }
-
 .pricing-card.featured .plan-price {
     color: #c8c0ff;
 }
-
 .pricing-card.featured .price-period {
     color: #a098d0;
 }
-
 .plan-features {
     text-align: left;
     margin: 20px 0 28px;
     padding-left: 4px;
 }
-
 .plan-features li {
     padding: 6px 0;
     font-size: 0.92rem;
@@ -516,11 +508,9 @@ ul {
     color: #333;
     line-height: 1.4;
 }
-
 .pricing-card.featured .plan-features li {
     color: #d0d0e8;
 }
-
 .plan-features li i {
     color: #6c63ff;
     width: 18px;
@@ -528,11 +518,9 @@ ul {
     margin-top: 3px;
     flex-shrink: 0;
 }
-
 .pricing-card.featured .plan-features li i {
     color: #8b7aff;
 }
-
 .btn-plan {
     display: inline-block;
     background: #eae8ff;
@@ -542,28 +530,23 @@ ul {
     border-radius: 40px;
     transition: background 0.25s ease, color 0.25s ease, transform 0.2s ease;
 }
-
 .btn-plan:hover {
     background: #d5d0ff;
     transform: translateY(-2px);
 }
-
 .featured-btn {
     background: linear-gradient(135deg, #6c63ff, #8b7aff);
     color: #fff;
 }
-
 .featured-btn:hover {
     background: linear-gradient(135deg, #5a4fcf, #7a6aff);
     color: #fff;
 }
-
 .footer {
     background: #0a0a18;
     padding: 60px 0;
     color: #b0b0c8;
 }
-
 .footer-top {
     display: flex;
     justify-content: space-between;
@@ -571,38 +554,32 @@ ul {
     flex-wrap: wrap;
     gap: 20px;
 }
-
 .footer-logo .logo-top {
     color: #ffffff;
     font-size: 1.3rem;
     font-weight: 700;
 }
-
 .footer-socials {
     display: flex;
     gap: 20px;
 }
-
 .footer-socials a {
     color: #b0b0c8;
     font-size: 1.25rem;
     transition: color 0.25s ease, transform 0.2s ease;
 }
-
 .footer-socials a:hover {
     color: #8b7aff;
     transform: translateY(-3px);
 }
-
 .footer-divider {
     border: 0;
     height: 1px;
     background: #1a1a2e;
     margin: 28px 0 20px;
 }
-
 .footer-copy {
     text-align: center;
     font-size: 0.9rem;
-    color: #80809a;
+    color: #7c7c9d;
 }
